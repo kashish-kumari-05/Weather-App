@@ -1,5 +1,14 @@
 # 🌦️ 7-Day Weather Forecast Web App
 
+
+"COMPANY" : CODTECH IT SOLUTIONS
+"NAME" : KASHISH KUMARI
+"INTERN ID" : CT06DF642
+"DOMAIN" : MERN STACK WEB DEVELOPMENT
+"DURATION" : 6 WEEKS
+"MENTOR" : Neela Santhosh
+
+
 This is a responsive and beautiful weather forecast web application built using **HTML**, **CSS**, and **JavaScript**. It provides detailed **current weather** and a **7-day forecast** using the OpenWeatherMap API. The app also displays **dynamic background images** based on current weather conditions.
 
 ---
@@ -62,7 +71,21 @@ weather-app/
 - Jaipur  
 - Lucknow  
 - Ahmedabad  
-- Chennai  
+- Chennai
+
+---
+
+## 📸 Screenshots
+
+### 🔍 Home Page
+![Home Page](screenshots/hero-img.png)
+
+### 🌦️ Weather Result for Bhubaneswar
+![Search Result](screenshots/app-.png)
+
+### 📱 Mobile Responsive View
+![Mobile View](screenshots/mobile-view.png)
+
 
 ---
 
@@ -76,3 +99,6 @@ weather-app/
 
 ---
 
+## 📄 License
+
+This project is open-source and free to use under the MIT License.
