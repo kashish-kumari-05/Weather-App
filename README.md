@@ -76,20 +76,3 @@ weather-app/
 
 ---
 
-## 📸 Screenshots
-
-> *(Include screenshots here if you want)*
-
----
-
-## 🧑‍💻 Developed By
-
-**Kashish Kumari**  
-BTech CSE Student | Frontend Developer | Learner  
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
-
----
-
-## 📃 License
-
-This project is open-source and free to use under the MIT License.
