@@ -28,3 +28,68 @@ This is a responsive and beautiful weather forecast web application built using 
 
 ## 📁 Folder Structure
 
+weather-app/
+├── index.html
+├── style.css
+├── script.js
+└── backgrounds/
+├── sunny.jpg
+├── rain.jpg
+├── clouds.jpg
+├── snow.jpg
+└── default.jpg
+
+---
+
+## 🔑 How to Use
+
+1. Clone this repository or download the ZIP  
+2. Replace the value of `apiKey` in `script.js` with your [OpenWeatherMap API key](https://openweathermap.org/api)  
+3. Open `index.html` in a browser or run using Live Server in VS Code  
+4. Type a city (e.g., `Delhi`, `Mumbai`, `Bhubaneswar`) and hit **Search**  
+5. Optional: Click “Use My Location” to auto-detect your city 🌍
+
+---
+
+## ✅ Example Cities (India)
+
+- Delhi  
+- Mumbai  
+- Bengaluru  
+- Kolkata  
+- Hyderabad  
+- Bhubaneswar  
+- Jaipur  
+- Lucknow  
+- Ahmedabad  
+- Chennai  
+
+---
+
+## 💡 Future Improvements (Ideas)
+
+- Add light/dark theme toggle 🌙  
+- Add pie charts or graphs for temperature trends 📈  
+- Show sunrise/sunset, pressure, visibility  
+- Save favorite cities 🔖  
+- Add animations or weather effects ❄️ 🌧️ ☀️
+
+---
+
+## 📸 Screenshots
+
+> *(Include screenshots here if you want)*
+
+---
+
+## 🧑‍💻 Developed By
+
+**Kashish Kumari**  
+BTech CSE Student | Frontend Developer | Learner  
+[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+
+---
+
+## 📃 License
+
+This project is open-source and free to use under the MIT License.
