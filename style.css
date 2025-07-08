@@ -1,0 +1,88 @@
+/* Ensure the page fills the screen */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.app {
+  background-image: url('backgrounds/default.jpg');
+}
+
+/* The main app background */
+.app {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: background-image 0.5s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+/* Container for weather content */
+.weather-container {
+  background-color: rgba(0, 0, 0, 0.6); /* semi-transparent for readability */
+  padding: 30px;
+  border-radius: 12px;
+  color: white;
+  max-width: 900px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Search bar */
+.search {
+  margin-bottom: 20px;
+}
+
+.search input {
+  padding: 10px;
+  font-size: 16px;
+  width: 250px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.search button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Current weather */
+.current-weather img {
+  height: 80px;
+}
+
+.current-weather p {
+  margin: 5px 0;
+}
+
+/* Forecast grid */
+.forecast {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.forecast .day {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 15px;
+  border-radius: 10px;
+  width: 130px;
+}
+
+.forecast .day img {
+  height: 60px;
+}
