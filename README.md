@@ -78,15 +78,16 @@ weather-app/
 ## 📸 Screenshots
 
 ### 🔍 Home Page
-![Home Page](screenshots/hero-img.png)
+![Home Page](Weather-Screenshot/Hero-img.png)
 
-### 🌦️ Weather Result for Bhubaneswar
-![Search Result](screenshots/app-.png)
+### 🌦️ Weather Result for 
+![Search Result](Weather-Screenshot/app_inner_img1.png)
 
-### 📱 Mobile Responsive View
-![Mobile View](screenshots/mobile-view.png)
+### 📱 🌦️ Weather Result for
+![Search Result](Weather-Screenshot/app_inner_img2.png)
 
-
+### 📱 🌦️ Weather Result for
+![Search Result](Weather-Screenshot/app_inner_img3.png)
 ---
 
 ## 💡 Future Improvements (Ideas)
