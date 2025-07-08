@@ -1,6 +1,7 @@
 # 🌦️ 7-Day Weather Forecast Web App
 
 
+
 "COMPANY" : CODTECH IT SOLUTIONS
 "NAME" : KASHISH KUMARI
 "INTERN ID" : CT06DF642
@@ -52,7 +53,11 @@ weather-app/
 
 ## 🔑 How to Use
 
-1. Clone this repository or download the ZIP  
+1. . **Clone the Repository:**
+```bash
+git clone https://github.com/kashish-kumari-05/Weather-Application.git
+cd Realtime-Chat-App
+```
 2. Replace the value of `apiKey` in `script.js` with your [OpenWeatherMap API key](https://openweathermap.org/api)  
 3. Open `index.html` in a browser or run using Live Server in VS Code  
 4. Type a city (e.g., `Delhi`, `Mumbai`, `Bhubaneswar`) and hit **Search**  
