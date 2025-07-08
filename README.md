@@ -80,13 +80,13 @@ weather-app/
 ### 🔍 Home Page
 ![Home Page](Weather-Screenshot/Hero-img.png)
 
-### 🌦️ Weather Result for 
+### 🌦️ Weather Result for Ranchi
 ![Search Result](Weather-Screenshot/app_inner_img1.png)
 
-### 📱 🌦️ Weather Result for
+### 📱 🌦️ Weather Result for New York
 ![Search Result](Weather-Screenshot/app_inner_img2.png)
 
-### 📱 🌦️ Weather Result for
+### 📱 🌦️ Weather Result for Gujarat
 ![Search Result](Weather-Screenshot/app_inner_img3.png)
 ---
 
