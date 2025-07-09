@@ -1,6 +1,6 @@
 # 🌦️ 7-Day Weather Forecast Web App
 
-
+```bash
 
 "COMPANY" : CODTECH IT SOLUTIONS
 "NAME" : KASHISH KUMARI
@@ -8,6 +8,7 @@
 "DOMAIN" : MERN STACK WEB DEVELOPMENT
 "DURATION" : 6 WEEKS
 "MENTOR" : Neela Santhosh
+```
 
 
 This is a responsive and beautiful weather forecast web application built using **HTML**, **CSS**, and **JavaScript**. It provides detailed **current weather** and a **7-day forecast** using the OpenWeatherMap API. The app also displays **dynamic background images** based on current weather conditions.
