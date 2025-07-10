@@ -38,7 +38,7 @@ This is a responsive and beautiful weather forecast web application built using 
 ---
 
 ## 📁 Folder Structure
-
+```bash
 weather-app/
 ├── index.html
 ├── style.css
@@ -49,6 +49,7 @@ weather-app/
 ├── clouds.jpg
 ├── snow.jpg
 └── default.jpg
+```
 
 ---
 
@@ -105,7 +106,3 @@ cd Realtime-Chat-App
 - Add animations or weather effects ❄️ 🌧️ ☀️
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
