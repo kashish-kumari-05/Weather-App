@@ -7,7 +7,7 @@
 "INTERN ID" : CT06DF642
 "DOMAIN" : MERN STACK WEB DEVELOPMENT
 "DURATION" : 6 WEEKS
-"MENTOR" : Neela Santhosh
+"MENTOR" : Neela Santhosh Kumar
 ```
 
 
@@ -44,11 +44,11 @@ weather-app/
 ├── style.css
 ├── script.js
 └── backgrounds/
-├── sunny.jpg
-├── rain.jpg
-├── clouds.jpg
-├── snow.jpg
-└── default.jpg
+   ├── sunny.jpg
+   ├── rain.jpg
+   ├── clouds.jpg
+   ├── snow.jpg
+   └── default.jpg
 ```
 
 ---
